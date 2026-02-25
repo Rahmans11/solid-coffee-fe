@@ -91,9 +91,11 @@ If you encounter any issues or have questions, please refer to the "Getting Star
 
 ## Authors
 
-example:
+- Bian Albaihaqi - [Github](https://github.com/Albaihaqi354)
 
-- Nugraha Panca WIbisana - [Github](https://github.com/NugrahaPancaWibisana/)
+- Virgil - [Github](https://github.com/VirgilIw)
+
+- M. Fadhlul Rahman P - [Github](https://github.com/Rahmans11)
 
 ## Version History
 
@@ -111,3 +113,7 @@ _(e.g., MIT License - see the LICENSE.md file for details)_ -->
 - Styled using [Tailwind CSS](https://tailwindcss.com/)
 - State management powered by [Redux Toolkit](https://redux-toolkit.js.org/)
 - Routing handled by [React Router](https://reactrouter.com/)
+
+## Backend Repository
+
+Link : [Github](https://github.com/NugrahaPancaWibisana/solid-coffee-be)
